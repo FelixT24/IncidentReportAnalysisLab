@@ -1,5 +1,3 @@
-# IncidentReportAnalysisLab
-
 <h1>Incident Report Analysis: DDoS Attack Simulation</h1>
 
 <h3>Project Description:</h3>
